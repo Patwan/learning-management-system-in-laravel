@@ -15,5 +15,5 @@ A project on how to create a Learning Management system using Laravel 5.
 * Student ~ Email (student@student.com ) Password 123456
 
 ### License
+This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html). You can freely use it for commercial or non-commercial purposes.
 
-Please use and re-use however you want.
