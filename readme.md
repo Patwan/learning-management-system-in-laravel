@@ -4,8 +4,8 @@ A project on how to create a Learning Management system using Laravel 5.
 
 
 ## Installation
-* Download the folder using git clone
-* Import the file called database.sql in your server
+* Download the folder using **git clone**
+* Import the file called **database.sql** in your server
 * Configure .env file for database credentials
 
 
