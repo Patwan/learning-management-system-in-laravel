@@ -1,6 +1,6 @@
-## Laravel Learning Management System
+# Laravel Learning Management System
 
-A project on how to create a Learning Management system using Laravel 5.
+A project on how to create a CRUD based Learning Management system using Laravel 5. Basically the system has role-based authentication of Admin, Teachers and Students. Admin has super-control over all other users.
 
 
 ## Installation
@@ -10,10 +10,10 @@ A project on how to create a Learning Management system using Laravel 5.
 
 
 ## Credentials to Login
-* Adminstartor ~ Email (admin@admin.com ) Password 123456
-* Teacher ~ Email (teacher@teacher.com ) Password 123456
-* Student ~ Email (student@student.com ) Password 123456
+* Adminstrator ~ Email **admin@admin.com** Password **123456**
+* Teacher ~ Email **teacher@teacher.com** Password **123456**
+* Student ~ Email **student@student.com** Password **123456**
 
-### License
+## License
 This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html). You can freely use it for commercial or non-commercial purposes.
 
