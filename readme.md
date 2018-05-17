@@ -6,8 +6,11 @@ A project on how to create a CRUD based Learning Management system using Laravel
 ## Installation
 * Download the folder using **git clone**
 * Import the file called **database.sql** in your server
-* Configure .env file for database credentials
+* Configure .env file with database connection and other settings
+* Run **composer install** command
+* Run **php artisan key:generate** command.
 
+Goto your domain and login using the credentials below:
 
 ## Credentials to Login
 * Adminstrator ~ Email **admin@admin.com** Password **123456**
